@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <strong>(watch a <a href="https://www.youtube.com/watch?v=gbPUndzeOSU&ab_channel=hozlucas28" target="_blank">video preview</a>)</strong>
+    <strong>(watch a <a href="https://hozlucas28.github.io/Codo-Codo-Front-end-Project-2022/" target="_blank">live test</a> or a <a href="https://www.youtube.com/watch?v=gbPUndzeOSU&ab_channel=hozlucas28" target="_blank">video preview</a>)</strong>
 </p>
 
 <h2>
@@ -88,7 +88,7 @@
     Related
 </h2>
 <p>
-    <ul>    
+    <ul>
         <li>
             <a href="https://github.com/hozlucas28/Codo-Codo-Front-end-2022" target="_blank">Repository of Front-end course</a>
         </li>
