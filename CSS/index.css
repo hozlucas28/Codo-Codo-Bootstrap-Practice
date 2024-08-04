@@ -2,6 +2,20 @@
 /*                             CONTENIDO PRINCIPAL                            */
 /* -------------------------------------------------------------------------- */
 
+/* ------------------------ Conferencia Buenos Aires ------------------------ */
+
+@media (width < 768px) {
+	#section-conference > div {
+		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/BS-AS.jpg);
+	}
+}
+
+@media (width >= 768px) {
+	#section-conference .card-body {
+		position: absolute;
+	}
+}
+
 /* ------------------------ Conviértete en un Orador ------------------------ */
 
 #btn-submit:hover {
